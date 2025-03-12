@@ -9,6 +9,6 @@
 - Takahashi_B23_report.pptx: 研究室内最終報告資料
 - Takahashi_SaitamaICT2023.pptx: 彩の国さいたまICTコンテスト2023の資料
 ## 受賞
-彩の国さいたまICTコンテスト2023
+彩の国さいたまICTコンテスト2023(https://www.sisia.or.jp/homepage-contest/index2023.html)
 - 高校・専門・大学 最優秀賞
 - 浦和レッドダイヤモンズ賞
